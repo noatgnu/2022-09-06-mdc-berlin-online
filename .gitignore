@@ -16,3 +16,7 @@ vendor/
 .docker-vendor/
 Gemfile.lock
 .*history
+*.txt
+*.csv
+.idea
+*.sqlite
